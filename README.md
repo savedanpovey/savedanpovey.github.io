@@ -17,7 +17,8 @@ This website uses [Jekyll](http://jekyllrb.com) and the [Affiliates for Jekyll](
 
     `bundle exec jekyll serve --watch`
     
-5. If everything checks out, send me a PR or ask me to add you as a callobrator
+5. If everything checks out, send me a PR or ask me to add you as a collaborator.
+6. Github will automatically detect your change and publish to hosting website
 
 
 References:
