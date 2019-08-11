@@ -1,16 +1,15 @@
-<<<<<<< HEAD
 # Site
-name: "Affiliates Theme for Jekyll"
-title: "Affiliates Theme for Jekyll"
-description: "Jekyll Theme for Blogging"
-meta_description: "Jekyll theme for blogging."
+name: "Save Dan Povey from JHU Bureaucracy"
+title: "Save Dan Povey from JHU Bureaucracy"
+description: "Keep Dan Povey at CLSP/JHU"
+meta_description: "Keep Dan Povey at CLSP/JHU"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
-email: 'wowthemesnet@gmail.com'
-google_analytics: 'UA-46278016-1'
+email: 'savedanpovey@gmail.com'
+google_analytics: 'UA-145466597-1'
 disqus: 'demowebsite'
-sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
+sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5d5057f93387b20012d7777e&product=sticky-share-buttons"></script>'
 
 # Authors
 authors:
@@ -50,6 +49,3 @@ jekyll-archives:
 # Other
 markdown: kramdown
 highlighter: rouge
-=======
-theme: jekyll-theme-cayman
->>>>>>> 23586d5369e8f377d7a1ca49fbd75f6da527bb23
