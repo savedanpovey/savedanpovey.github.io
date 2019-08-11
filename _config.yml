@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site
 name: "Affiliates Theme for Jekyll"
 title: "Affiliates Theme for Jekyll"
@@ -49,3 +50,6 @@ jekyll-archives:
 # Other
 markdown: kramdown
 highlighter: rouge
+=======
+theme: jekyll-theme-cayman
+>>>>>>> 23586d5369e8f377d7a1ca49fbd75f6da527bb23
