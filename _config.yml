@@ -8,7 +8,7 @@ favicon: 'assets/images/favicon.ico'
 paginate: 12
 email: 'savedanpovey@gmail.com'
 google_analytics: 'UA-145466597-1'
-disqus: 'demowebsite'
+disqus: 'https-savedanpovey-github-io'
 sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5d5057f93387b20012d7777e&product=sticky-share-buttons"></script>'
 
 # Authors
