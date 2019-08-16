@@ -8,3 +8,4 @@ _site/
 [._]s[a-rt-v][a-z]
 [._]ss[a-gi-z]
 [._]sw[a-p]
+.DS_Store
