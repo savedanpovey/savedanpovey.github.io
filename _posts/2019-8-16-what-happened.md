@@ -74,6 +74,26 @@ Many people have heard the story of ''John Hopkins professor fired for jeopardiz
 > 
 > Povey wrote that he was the one who was hurt, suffering a scratch on his back during a skirmish with protesters.
 
+[CNBC (August 12th)](https://www.cnbc.com/2019/08/12/facebook-hires-daniel-povey-fired-johns-hopkins-professor.html)
+
+> The school decided to fire Povey after a May incident in which he used bolt cutters to attempt to forcibly enter one of the school’s buildings that had been occupied by student protesters. The school notified Povey of his termination last Thursday, he says.
+>
+> ''As a faculty member at Johns Hopkins University, you created a dangerous situation that could have ended in serious harm to our students, yourself, and others in the community,'' reads a copy of the termination letter that Povey posted on his website.
+
+## Facebook's Conditional Offer
+
+[CNBC (August 12th)](https://www.cnbc.com/2019/08/12/facebook-hires-daniel-povey-fired-johns-hopkins-professor.html)
+
+> Facebook confirmed on Monday that it has hired a speech recognition researcher who was fired this month from Johns Hopkins University after the university said he put students in danger while trying to enter a building occupied by protesters.
+>
+> A spokesman for the company told CNBC that it has hired Daniel Povey, who had been a research professor at Johns Hopkins since 2012, according to his LinkedIn profile. Before joining Johns Hopkins, Povey was a researcher at Microsoft as well as IBM.
+> 
+> Povey will work out of Facebook’s offices in Seattle starting on Aug. 19, according to his note. Povey said he will be working on speech recognition for Facebook and will report to Mike Seltzer, a Facebook applied research scientist.
+> 
+> Povey told CNBC he is hoping for the best in his new role, but would not be surprised if controversy follows him.
+> 
+> ''I just wouldn't expect to last very long at any big Silicon Valley company after expressing the kinds of opinions I have expressed in my leaving message,'' Povey said in an email.
+
 ## Povey's Remarks
 
 [The Washington Post (August 12th)](https://www.washingtonpost.com/local/education/johns-hopkins-professor-fired-after-attempted-sabotage-of-student-sit-in-over-private-police-force/2019/08/12/5c80751a-bb8d-11e9-bad6-609f75bfd97f_story.html?noredirect=on)
@@ -87,6 +107,18 @@ Many people have heard the story of ''John Hopkins professor fired for jeopardiz
 > ''I may not have my job,'' Povey said, ''but at least I still have my dignity and my independence of thought.''
 
 > He also believes ''whites, or white males are being discriminated against.'' and he is expected to behave like a ''neutered puppy-dog.''
+
+[CNBC (August 12th)](https://www.cnbc.com/2019/08/12/facebook-hires-daniel-povey-fired-johns-hopkins-professor.html)
+
+> Povey on Thursday also published a note explaining his actions and firing from Johns Hopkins, saying ''I may not have my job, but at least I still have my dignity and my independence of thought.''
+> 
+> In the note, Povey also suggested he was terminated partly because he was a white man while the protesting students were minorities.
+> 
+> ''White males in this environment seem to be expected to constantly atone for their existence by telegraphing their exclusive concern for every demographic group but their own, like a neutered puppy-dog or some Justin Trudeau man-child,'' Povey wrote. ''It’s pathetic, in my opinion; and I don’t accept it at all.''
+> 
+> In his goodbye note, Povey said he has many career options.
+> 
+> ''When this whole thing started I told my friends, if the worst comes to the worst I can always go to China or Russia,'' Povey wrote. ''I'll tell you this, though: whatever happens, I will never apologize and I will never back down.''
 
 ## The Other Side
 
