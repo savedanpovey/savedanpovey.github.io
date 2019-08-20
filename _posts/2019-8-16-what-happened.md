@@ -27,6 +27,16 @@ Many people have heard the story of ''John Hopkins professor fired for jeopardiz
 > 
 > Hours before Povey showed up with bolt cutters to break into Garland, he stood outside with signs that read, ''Enough With The Progressive [expletive],'' ''Don’t Make Me Tell Your Mom” and “Let us get back to work.''
 
+[Inside Higher ED (August 12th)](https://www.insidehighered.com/news/2019/08/12/johns-hopkins-fires-professor-over-clash-student-protesters-he-says-he-has-no)
+
+> Povey further accused student and local protesters of lying about what actually happened inside Garland Hall at Hopkins on day 35 of the overall protest, about a week after they forced a shutdown of Hopkins's main administrative building and chained themselves to walls, railings and staircases.
+> 
+> It [the JHU Sit-In group] also alleges that the university was manipulating the cooling and heating systems inside the occupied administrative building, and that they may have damaged a server Povey was using.
+> 
+> JHU Sit-In is dedicated to resisting what it calls campus militarization, including a proposal for an armed, private police force; ending the university's dealing with Immigration and Customs Enforcement; and justice for Tyrone West, a black Baltimore resident who was killed by city police during a traffic stop in 2013.
+> 
+> Povey was repeatedly told not enter Garland Hall prior to the exchange, despite his requests to enter the building to access computer servers there, according to the letter.
+
 ## The ''Counter-Protest''
 
 [Fox News (August 10th)](https://www.foxnews.com/us/johns-hopkins-professor-fired-for-attempting-to-sabotage-student-protest) 
@@ -42,6 +52,12 @@ Many people have heard the story of ''John Hopkins professor fired for jeopardiz
 > About midnight on May 7, a Johns Hopkins University associate research professor burst into a campus building with bolt cutters hoping to break up a student sit-in and access computer servers there.
 > 
 > The Students Against Private Police group was not available for comment Friday. The lockdown was ended by police the same day as Povey’s break-in; seven students were arrested.
+
+[Inside Higher ED (August 12th)](https://www.insidehighered.com/news/2019/08/12/johns-hopkins-fires-professor-over-clash-student-protesters-he-says-he-has-no)
+
+> The [JHU Sit-In] group noted that Povey did not say ''anything racially motivated during the actual attack.''
+> 
+> Regarding the incident, Povey said that he was ''frustrated [by] the prospect of a long siege at Garland where our computer servers live,'' and ''organized a group of what I called 'counterprotesters' to try to regain control of the building from the students.''
 
 ## The Investigation and Administrative Leave
 
@@ -79,6 +95,24 @@ Many people have heard the story of ''John Hopkins professor fired for jeopardiz
 > The school decided to fire Povey after a May incident in which he used bolt cutters to attempt to forcibly enter one of the school’s buildings that had been occupied by student protesters. The school notified Povey of his termination last Thursday, he says.
 >
 > ''As a faculty member at Johns Hopkins University, you created a dangerous situation that could have ended in serious harm to our students, yourself, and others in the community,'' reads a copy of the termination letter that Povey posted on his website.
+
+[Inside Higher ED (August 12th)](https://www.insidehighered.com/news/2019/08/12/johns-hopkins-fires-professor-over-clash-student-protesters-he-says-he-has-no)
+
+> Johns Hopkins University terminated a nontenured associate research professor of speech and language processing who broke into a student sit-in earlier this year with bolt cutters. He says his counterprotest was supposed to be nonviolent and that he wanted to access servers in the occupied building. But protesters accused him of attacking them, and the university says that whatever happened, he put students in danger.
+> 
+> In reality, Povey wrote, he was attacked -- not the other way around.
+> 
+> According to Povey's termination letter, he was suspended and banned from campus in May over allegations that he ''engaged in violent and aggressive behavior when attempting forcibly to enter Garland Hall,'' and his conduct ''was motivated by racially discriminatory animus and created a hostile environment.''
+> 
+> Povey has admitted leading a group of people to the campus building around midnight on May 8, carrying bolt cutters. ''You believed the group of nonaffiliates you brought with you could become violent,'' the termination letter also says. As a faculty member, ''you created a dangerous situation that could have ended in serious harm to our students, yourself and others in the community.''
+> 
+> ''These actions by a member of our faculty are entirely unacceptable. The safety, security and protection of our students and others are of paramount importance to the university,'' wrote Andrew S. Douglas, vice dean for faculty. While the university will continue its investigation until it reaches its conclusion, ''your own account of events based on your oral and written statements provides more than sufficient grounds for immediate termination, and we are hereby terminating your appointment with the university.''
+> 
+> Povey’s termination is effective Aug. 31, so that he may help his graduate student advisees transition in the coming weeks.
+> 
+> In the post to his personal website, Povey said he was leaving to take a job in industry in Seattle, starting next week. He’ll still be working with students and collaborators remotely, he said.
+> 
+> Johns Hopkins has said that it can’t comment on private personnel matters, but that the ''safety, security and protection of our students and others are of paramount importance to the university.'' A ''troubling incident in early May prompted an investigation,'' it said, and, based on the ''undisputed facts of the case, the university took interim and now permanent action to ensure the safety and well-being of the community.''
 
 [CNBC (August 16th)](https://www.cnbc.com/2019/08/16/daniel-povey-fired-johns-hopkins-prof-declines-facebook-work-offer.html)
 
@@ -171,6 +205,29 @@ Many people have heard the story of ''John Hopkins professor fired for jeopardiz
 > 
 > ''When this whole thing started I told my friends, if the worst comes to the worst I can always go to China or Russia,'' Povey wrote. ''I'll tell you this, though: whatever happens, I will never apologize and I will never back down.''
 
+[Inside Higher ED (August 12th)](https://www.insidehighered.com/news/2019/08/12/johns-hopkins-fires-professor-over-clash-student-protesters-he-says-he-has-no)
+
+> The professor, Daniel Povey, shared his notice letter on his website last week--along with the news that he's leaving Baltimore for a job in industry and is definitely not sorry.
+> 
+> ''I am aware that some people are trying to 'cancel' me and get me fired from my next job. See if I care!'' he said in a lengthy post. ''I'll tell you this, though: whatever happens, I will never apologize and I will never back down.''
+> 
+> The ''normal script is that I am supposed to get down on my knees and say 'Please accept me back into your midst, liberal America! I accept that I was wrong,''' he said, adding, ''No way. Fuck you.''
+> 
+> A ''scuffle'' ensued, he said, ''and I was carried out of the building by the protesters.'' The university ''seems not to have been able to substantiate the allegations that I attacked the protesters,'' he said, but Johns Hopkins ''leadership still decided that I still needed to be fired.''
+> 
+> While the termination letter says he put students in danger, Povey wrote, he actually told the university that his associates were under ''strict instructions to not retaliate if attacked.'' He did shrug when he was later asked whether he was confident that they would have been able to follow those instructions no matter what happened, though, he said.
+> 
+> ''So essentially I am being fired for what might have happened, while the students are getting off scot free for things that actually did happen. They actually made false allegations against me, both in public (on Twitter) and to the university authorities. They actually attacked me and hurt me; many of you saw the big scratches on my back. They also threw a lot of punches at the people with me, who showed admirable restraint, although I understand one punch was thrown by a person in my group. They actually shut down Garland and inconvenienced thousands of people, requiring the fire department to cut open the doors to get them out. But they suffer no consequences. Am I sensing just a liiiitle bit of a double standard?''
+> 
+> What accounts for that, beyond Povey’s faculty status, he asked? ''My feeling is that this mostly has to do with underrepresented minorities, specifically black people (and trans people). There seems to be nothing that Americans, or American institutions, fear more than being accused of racism (or similar isms), which leads to ridiculous spectacles like what we're seeing here, where such a huge organization can be paralyzed by a handful of deluded kids.''
+> 
+> If Povey had known in advance ''that everyone inside the building was black (that was what I saw; although from media coverage it seems that there may have been a white trans person in the core group) -- I wouldn't have gone ahead with the counterprotest,'' he said. ''I’m not an idiot; I know that as a person who demographically ticks all the 'oppressor boxes,' I would have to be severely punished for opposing such a group.''
+> 
+> White men in ''this environment seem to be expected to constantly atone for their existence by telegraphing their exclusive concern for every demographic group but their own, like a neutered puppy dog or some Justin Trudeau man child,'' he said. ''It's pathetic, in my opinion, and I don't accept it at all. I am not prepared to apologize for being who I am. I don't think that empathy should preclude critical thinking or basic self-respect.''
+> 
+> Povey goes on to criticize critiques of ''toxic masculinity,'' compare current discourses on gender and race to Animal Farm and Nazism, discusses animus toward market-dominant minorities, and ends with some Bob Dylan: ''I ain't sorry for nothing I've done/I'm glad I fought, I only wish we'd won.'' He at one point uses the word -- widely considered a slur -- ''retarded.''
+
+
 [CNBC (August 16th)](https://www.cnbc.com/2019/08/16/daniel-povey-fired-johns-hopkins-prof-declines-facebook-work-offer.html)
 
 > When Johns Hopkins fired him, Povey posted a letter on his web site that included the line, ''White males in this environment seem to be expected to constantly atone for their existence by telegraphing their exclusive concern for every demographic group but their own, like a neutered puppy-dog or some Justin Trudeau man-child.''
@@ -194,4 +251,12 @@ Many people have heard the story of ''John Hopkins professor fired for jeopardiz
 [The Washington Post (August 12th)](https://www.washingtonpost.com/local/education/johns-hopkins-professor-fired-after-attempted-sabotage-of-student-sit-in-over-private-police-force/2019/08/12/5c80751a-bb8d-11e9-bad6-609f75bfd97f_story.html?noredirect=on)
 
 > The sit-in group met with university administrators on July 24 to discuss the police force and the school’s ICE contracts. University Vice Provost Kevin G. Shollenberger said it was not a negotiation. The next discussion is set for Thursday.
+
+[Inside Higher ED (August 12th)](https://www.insidehighered.com/news/2019/08/12/johns-hopkins-fires-professor-over-clash-student-protesters-he-says-he-has-no)
+
+> In response to Povey’s statement, the JHU Sit-In group posted video of the incident. (Povey has since said it is misleadingly captioned. The video itself is grainy and a collection of short clips, so it's difficult to discern what actually happened. It shows Povey using bolt cutters to break through to protesters and, later, someone getting punched.) An accompanying statement from the group says, ''We are pleased Professor Povey is no longer welcome on campus, as he has negatively affected students and the community.'' However, it says, ''we are disappointed that Povey continues to defend his actions, shows no remorse, and disparages students based on his perceptions of their identities.''
+> 
+> In its response, JHU Sit-In wrote that Povey’s words are ''alarmingly reminiscent of those written to justify abhorrent acts of violence, including the recent mass shootings in Dayton and El Paso.'' The university ''must take a definitive stance against discrimination and violence'' and JHU Sit-In looks ''forward to seeing the additional measures JHU takes to address the campus culture that fostered these actions.''
+
+
 
