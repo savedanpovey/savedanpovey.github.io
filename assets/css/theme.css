@@ -8,6 +8,9 @@ body {
     font-family: "Rubik", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
     overflow-x: hidden;
 }
+.fa { 
+    font-family: 'FontAwesome' !important; 
+} 
 .mainheading {
 	padding: 0rem 0rem 1rem 0;
 }
