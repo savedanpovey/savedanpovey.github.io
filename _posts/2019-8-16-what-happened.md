@@ -80,6 +80,10 @@ Many people have heard the story of ''John Hopkins professor fired for jeopardiz
 >
 > ''As a faculty member at Johns Hopkins University, you created a dangerous situation that could have ended in serious harm to our students, yourself, and others in the community,'' reads a copy of the termination letter that Povey posted on his website.
 
+[Baltimore Sun (August 18th)](https://www.baltimoresun.com/education/bs-md-johns-hopkins-professor-facebook-20190818-hb5ytjlmf5h7xa452jd7bkihce-story.html)
+
+> School officials wrote in a termination letter to Povey that he brought ''a group of non-affiliates to campus'' on May 8 and ''created a dangerous situation that could have ended in serious harm to our students, yourself, and others in the community.'' The university terminated his employment effective Aug. 31.
+
 ## Facebook's Conditional Offer
 
 [CNBC (August 12th)](https://www.cnbc.com/2019/08/12/facebook-hires-daniel-povey-fired-johns-hopkins-professor.html)
@@ -93,6 +97,28 @@ Many people have heard the story of ''John Hopkins professor fired for jeopardiz
 > Povey told CNBC he is hoping for the best in his new role, but would not be surprised if controversy follows him.
 > 
 > ''I just wouldn't expect to last very long at any big Silicon Valley company after expressing the kinds of opinions I have expressed in my leaving message,'' Povey said in an email.
+
+## Povey's Declination to the Facebook Offer
+
+[Baltimore Sun (August 18th)](https://www.baltimoresun.com/education/bs-md-johns-hopkins-professor-facebook-20190818-hb5ytjlmf5h7xa452jd7bkihce-story.html)
+
+> A Johns Hopkins professor who was fired after he tried to use bolt cutters to force his way through a group of student protesters rallying against a private police force on campus has turned down a job at Facebook.
+> 
+> Daniel Povey, who was fired and banned from the Johns Hopkins University campus in Baltimore after he showed up to a May 8 student protest at Garland Hall with bolt cutters, wrote in an email he had turned down an offer at Facebook because he thought it was a disingenuous offer tied to his politics.
+> 
+> ''I believed that if they intended not to hire me, they would need an investigation to justify that decision — so as not to be accused of left-wing bias,” Povey wrote. “So I suspected that they might not have been intending to hire me full-time at all.''
+> 
+> A spokesperson for Facebook did not return calls for comment Sunday.
+> 
+> In the email, he continued his attacks against what he called ''progresive ideas,'' saying he was prepared for a similar culture at Facebook.
+> 
+> ''At orientation they make you state your gender pronouns when you introduce yourself; and they have tampons in the mens' restrooms,'' he wrote in the email. ''So it’s not a place where you can easily get away with opposing progresive ideas.''
+> 
+> He said he plans to work with an, as of now, unnamed Chinese company or university in speech recognition and machine learning.
+> 
+> But he added that the terms of employment have not been set and that ''almost certainly it will be one Chinese company or another.''
+>
+> ''There are several operations in the Seattle area who do this kind of thing, so I wouldn’t even have to move,'' Povey wrote. ''I will feel more relaxed among the Chinese because they don’t have American-style social justice warriors.''
 
 ## Povey's Remarks
 
@@ -119,6 +145,12 @@ Many people have heard the story of ''John Hopkins professor fired for jeopardiz
 > In his goodbye note, Povey said he has many career options.
 > 
 > ''When this whole thing started I told my friends, if the worst comes to the worst I can always go to China or Russia,'' Povey wrote. ''I'll tell you this, though: whatever happens, I will never apologize and I will never back down.''
+
+[Baltimore Sun (August 18th)](https://www.baltimoresun.com/education/bs-md-johns-hopkins-professor-facebook-20190818-hb5ytjlmf5h7xa452jd7bkihce-story.html)
+
+> Povey has been outspoken since being fired from the university, penning a personal essay where he claimed white males are discriminated against on college campuses.
+> 
+> ''White males in this environment seem to be expected to constantly atone for their existence by telegraphing their exclusive concern for every demographic group but their own, like a neutered puppy-dog or some [Canadian Prime Minister] Justin Trudeau man-child,'' he wrote. ''It’s pathetic, in my opinion, and I don’t accept it at all.''
 
 ## The Other Side
 
