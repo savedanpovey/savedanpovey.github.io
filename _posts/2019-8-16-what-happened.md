@@ -1,4 +1,8 @@
+# What Happened
+
 Many people have heard the story of ''John Hopkins professor fired for jeopardizing student safety''--but is that the whole story? By putting multiple public news articles together, this post aims to provide an as comprehensive and objective view of what actually happened as possible. 
+
+## The ''Counter-Protesters''
 
 [Fox News (August 10th)](https://www.foxnews.com/us/johns-hopkins-professor-fired-for-attempting-to-sabotage-student-protest)
 
@@ -9,7 +13,11 @@ Many people have heard the story of ''John Hopkins professor fired for jeopardiz
 > Povey says he was frustrated by the protesters after they blocked windows and chained doors, forcing the administration to close the building during the final week of the school's spring semester. Povey, a speech recognition researcher was responsible for maintaining servers for Hopkin's Center for Language and Speech Processing, located inside Garland Hall, according to the Baltimore Sun.
 >
 > ''Being frustrated as the prospect of a long siege at Garland where our computer servers live, I organized a group of what I called ''counter-protesters'' to try to regain control of the building from the students,'' Povey said in a statement. ''This was on the evening of May 8th; there was a scuffle and I was carried out of the building by the protesters. They then made allegations to the Office of Institutional Equity (OIE), saying that I had attacked them.
->
+
+## The Investigation and Administrative Leave
+
+[Fox News (August 10th)](https://www.foxnews.com/us/johns-hopkins-professor-fired-for-attempting-to-sabotage-student-protest)
+
 > Povey also posted the termination letter online, which carries out on Aug. 31, to give students under him the time to find a new advisor.
 >
 > The OIE has been investigating the allegations that Povey engaged in violent and aggressive behavior during the incident at Garland Hall, as well as complaints that his conduct was racially motivated. The investigation from the OIE used a quote from Povey saying ''we were met with more violence than we anticipated,'' as an admission of guilt. During the lockdown of Garland Hall, seven protesters were arrested, four of them being students.
@@ -26,7 +34,16 @@ Many people have heard the story of ''John Hopkins professor fired for jeopardiz
 > Povey was originally placed on administrative leave following the incident before being fired.
 > 
 > Hopkins spokesperson Karen Lancaster in a statement, ''the safety, security, and protection of our students and others are of paramount importance to the University. ''[based on the] undisputed facts of the case, the University took interim and now permanent action to ensure the safety and wellbeing of the community.”
-> 
-> The sit-in group met with University administrators to discuss the new police force and the school's contracts with ICE on July 24, with the next meeting scheduled for Aug. 15.
+
+## Povey's Remarks
+
+[Fox News (August 10th)](https://www.foxnews.com/us/johns-hopkins-professor-fired-for-attempting-to-sabotage-student-protest)
 
 > ''I may not have my job,'' Povey said, ''but at least I still have my dignity and my independence of thought.''
+
+## The Other Side
+
+[Fox News (August 10th)](https://www.foxnews.com/us/johns-hopkins-professor-fired-for-attempting-to-sabotage-student-protest)
+
+> The sit-in group met with University administrators to discuss the new police force and the school's contracts with ICE on July 24, with the next meeting scheduled for Aug. 15.
+
