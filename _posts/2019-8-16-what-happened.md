@@ -80,6 +80,10 @@ Many people have heard the story of ''John Hopkins professor fired for jeopardiz
 >
 > ''As a faculty member at Johns Hopkins University, you created a dangerous situation that could have ended in serious harm to our students, yourself, and others in the community,'' reads a copy of the termination letter that Povey posted on his website.
 
+[CNBC (August 16th)](https://www.cnbc.com/2019/08/16/daniel-povey-fired-johns-hopkins-prof-declines-facebook-work-offer.html)
+
+> In May, Povey used bolt cutters to attempt to forcibly enter one of the school’s buildings that had been occupied by student protesters. The school informed him of his termination earlier this month. Afterwards, Povey published a note on his website in which he suggested that he was let go partly because he was a white man while the protesting students were minorities.
+
 [Baltimore Sun (August 18th)](https://www.baltimoresun.com/education/bs-md-johns-hopkins-professor-facebook-20190818-hb5ytjlmf5h7xa452jd7bkihce-story.html)
 
 > School officials wrote in a termination letter to Povey that he brought ''a group of non-affiliates to campus'' on May 8 and ''created a dangerous situation that could have ended in serious harm to our students, yourself, and others in the community.'' The university terminated his employment effective Aug. 31.
@@ -98,7 +102,28 @@ Many people have heard the story of ''John Hopkins professor fired for jeopardiz
 > 
 > ''I just wouldn't expect to last very long at any big Silicon Valley company after expressing the kinds of opinions I have expressed in my leaving message,'' Povey said in an email.
 
+[CNBC (August 16th)](https://www.cnbc.com/2019/08/16/daniel-povey-fired-johns-hopkins-prof-declines-facebook-work-offer.html)
+
+> ''This is a difficult position for us because under normal circumstances, we would not hire someone who was terminated for creating safety concerns at his last employer, but you have also been working for us for a year as a consultant with no issues, and so we believe we should make our own independent decision as to whether your conduct at JHU prevents us from hiring you,'' Facebook wrote.
+> 
+> However, Facebook told Povey that its decision to do an independent review ''had nothing to do with your political views.''
+
+
 ## Povey's Declination to the Facebook Offer
+
+[CNBC (August 16th)](https://www.cnbc.com/2019/08/16/daniel-povey-fired-johns-hopkins-prof-declines-facebook-work-offer.html)
+
+> Fired Johns Hopkins professor Daniel Povey will not work for Facebook after all, he told CNBC on Friday.
+>
+> Povey was slated to start working on speech recognition for Facebook out of the company's Seattle office next Monday. But on Thursday, Facebook placed conditions on the hire that Povey didn't accept.
+> 
+> Specifically, Facebook told him that he could work as a contractor for six weeks without permission to come onto Facebook's property, Povey wrote in a note on his website. A full-time offer would be contingent on the results of a Facebook ''investigation into what happened,'' Povey wrote.
+> 
+> ''I declined that offer,'' Povey wrote in a note on his website.
+> 
+> In an email to Povey that Facebook shared with CNBC, the company explained it would normally never hire a person who was fired from his last job over safety issues. However, Povey had been working as a contractor for the company already, so it decided to give him a chance to continue his contract while the company investigated.
+> 
+> Povey told CNBC he will likely seek employment from a foreign-owned company or a start-up.
 
 [Baltimore Sun (August 18th)](https://www.baltimoresun.com/education/bs-md-johns-hopkins-professor-facebook-20190818-hb5ytjlmf5h7xa452jd7bkihce-story.html)
 
@@ -145,6 +170,14 @@ Many people have heard the story of ''John Hopkins professor fired for jeopardiz
 > In his goodbye note, Povey said he has many career options.
 > 
 > ''When this whole thing started I told my friends, if the worst comes to the worst I can always go to China or Russia,'' Povey wrote. ''I'll tell you this, though: whatever happens, I will never apologize and I will never back down.''
+
+[CNBC (August 16th)](https://www.cnbc.com/2019/08/16/daniel-povey-fired-johns-hopkins-prof-declines-facebook-work-offer.html)
+
+> When Johns Hopkins fired him, Povey posted a letter on his web site that included the line, ''White males in this environment seem to be expected to constantly atone for their existence by telegraphing their exclusive concern for every demographic group but their own, like a neutered puppy-dog or some Justin Trudeau man-child.''
+> 
+> Povey said he knew that writing such a letter could cost him his job with Facebook.
+> 
+> ''Everyone around me was begging me to take it down,'' Povey wrote on Friday. ''But I said, how can I tell others to man up and then be a coward myself?''
 
 [Baltimore Sun (August 18th)](https://www.baltimoresun.com/education/bs-md-johns-hopkins-professor-facebook-20190818-hb5ytjlmf5h7xa452jd7bkihce-story.html)
 
