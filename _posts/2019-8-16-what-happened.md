@@ -3,6 +3,7 @@
 Many people have heard the story of ''John Hopkins professor fired for jeopardizing student safety''--but is that the whole story? By putting multiple public news articles together, this post aims to provide an as comprehensive and objective view of what actually happened as possible. 
 
 ## The Protest
+
 [Fox News (August 10th)](https://www.foxnews.com/us/johns-hopkins-professor-fired-for-attempting-to-sabotage-student-protest)
 
 > A monthlong sit-in by students protesting a bill that would implement an armed campus police force and the school's contracts with U.S. Immigration and Customs Enforcement.
@@ -69,14 +70,6 @@ Many people have heard the story of ''John Hopkins professor fired for jeopardiz
 
 ## The University Decision--Employment Termination
 
-[The Washington Post (August 12th)](https://www.washingtonpost.com/local/education/johns-hopkins-professor-fired-after-attempted-sabotage-of-student-sit-in-over-private-police-force/2019/08/12/5c80751a-bb8d-11e9-bad6-609f75bfd97f_story.html?noredirect=on)
-
-> Now Povey, who was initially placed on administrative leave, has been fired by Hopkins for jeopardizing student safety, according to an Aug. 8 letter written by Andrew S. Douglas, the university’s vice dean for faculty. Povey posted the termination letter online. It takes effect Aug. 31.
->
-> Hopkins spokeswoman Karen Lancaster said the university could not comment on personnel matters but wrote in a statement that ''the safety, security, and protection of our students and others are of paramount importance to the University.''
-> 
-> She confirmed that a ''troubling incident'' in early May prompted an investigation and that in response to that incident, based on the ''undisputed facts of the case, the University took interim and now permanent action to ensure the safety and well-being of the community.''
-
 [Fox News (August 10th)](https://www.foxnews.com/us/johns-hopkins-professor-fired-for-attempting-to-sabotage-student-protest)
 
 > ''By your own admissions, your actions were premeditated and you expected that your actions could result in a violent confrontation with students and others in or around Garland Hall,'' the termination letter from Vice Dean for Faculty, Andrew Douglas stated. ''In fact, you believed the group of non-affiliates you brought with you could become violent. As a faculty member at Johns Hopkins University, you created a dangerous situation that could have ended in serious harm to our students, yourself, and others in the community.''
@@ -89,6 +82,14 @@ Many people have heard the story of ''John Hopkins professor fired for jeopardiz
 > Povey’s termination letter states that he ''flagrantly and unapologetically violated JHU directives'' to stay away from the building and that he ''created a dangerous situation that could have ended in serious harm to our students, yourself, and others in the community.''
 > 
 > Povey wrote that he was the one who was hurt, suffering a scratch on his back during a skirmish with protesters.
+
+[The Washington Post (August 12th)](https://www.washingtonpost.com/local/education/johns-hopkins-professor-fired-after-attempted-sabotage-of-student-sit-in-over-private-police-force/2019/08/12/5c80751a-bb8d-11e9-bad6-609f75bfd97f_story.html?noredirect=on)
+
+> Now Povey, who was initially placed on administrative leave, has been fired by Hopkins for jeopardizing student safety, according to an Aug. 8 letter written by Andrew S. Douglas, the university’s vice dean for faculty. Povey posted the termination letter online. It takes effect Aug. 31.
+>
+> Hopkins spokeswoman Karen Lancaster said the university could not comment on personnel matters but wrote in a statement that ''the safety, security, and protection of our students and others are of paramount importance to the University.''
+> 
+> She confirmed that a ''troubling incident'' in early May prompted an investigation and that in response to that incident, based on the ''undisputed facts of the case, the University took interim and now permanent action to ensure the safety and well-being of the community.''
 
 [CNBC (August 12th)](https://www.cnbc.com/2019/08/12/facebook-hires-daniel-povey-fired-johns-hopkins-professor.html)
 
@@ -211,8 +212,6 @@ Many people have heard the story of ''John Hopkins professor fired for jeopardiz
 > 
 > ''I am aware that some people are trying to 'cancel' me and get me fired from my next job. See if I care!'' he said in a lengthy post. ''I'll tell you this, though: whatever happens, I will never apologize and I will never back down.''
 > 
-> The ''normal script is that I am supposed to get down on my knees and say 'Please accept me back into your midst, liberal America! I accept that I was wrong,''' he said, adding, ''No way. Fuck you.''
-> 
 > A ''scuffle'' ensued, he said, ''and I was carried out of the building by the protesters.'' The university ''seems not to have been able to substantiate the allegations that I attacked the protesters,'' he said, but Johns Hopkins ''leadership still decided that I still needed to be fired.''
 > 
 > While the termination letter says he put students in danger, Povey wrote, he actually told the university that his associates were under ''strict instructions to not retaliate if attacked.'' He did shrug when he was later asked whether he was confident that they would have been able to follow those instructions no matter what happened, though, he said.
@@ -221,7 +220,7 @@ Many people have heard the story of ''John Hopkins professor fired for jeopardiz
 > 
 > What accounts for that, beyond Povey’s faculty status, he asked? ''My feeling is that this mostly has to do with underrepresented minorities, specifically black people (and trans people). There seems to be nothing that Americans, or American institutions, fear more than being accused of racism (or similar isms), which leads to ridiculous spectacles like what we're seeing here, where such a huge organization can be paralyzed by a handful of deluded kids.''
 > 
-> If Povey had known in advance ''that everyone inside the building was black (that was what I saw; although from media coverage it seems that there may have been a white trans person in the core group) -- I wouldn't have gone ahead with the counterprotest,'' he said. ''I’m not an idiot; I know that as a person who demographically ticks all the 'oppressor boxes,' I would have to be severely punished for opposing such a group.''
+> If Povey had known in advance ''that everyone inside the building was black (that was what I saw; although from media coverage it seems that there may have been a white trans person in the core group)--I wouldn't have gone ahead with the counterprotest,'' he said. ''I’m not an idiot; I know that as a person who demographically ticks all the 'oppressor boxes,' I would have to be severely punished for opposing such a group.''
 > 
 > White men in ''this environment seem to be expected to constantly atone for their existence by telegraphing their exclusive concern for every demographic group but their own, like a neutered puppy dog or some Justin Trudeau man child,'' he said. ''It's pathetic, in my opinion, and I don't accept it at all. I am not prepared to apologize for being who I am. I don't think that empathy should preclude critical thinking or basic self-respect.''
 > 
