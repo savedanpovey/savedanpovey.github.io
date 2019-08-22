@@ -3,9 +3,9 @@ layout: post
 title:  "What Happened"
 author: 
 categories: []
-image: assets/images/3.jpg
+image: assets/images/chain.jpg
 ---
-# What Happened
+Student's month-long occupation of Garland Hall cut off CLSP's access to its computing grid.
 
 Many people have heard the story of ''John Hopkins professor fired for jeopardizing student safety''--but is that the whole story? By putting multiple public news articles together, this post aims to provide an as comprehensive and objective view of what actually happened as possible. 
 
