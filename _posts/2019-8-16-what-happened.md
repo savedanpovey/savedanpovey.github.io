@@ -3,13 +3,24 @@ layout: post
 title:  "What Happened"
 author: 
 categories: []
+comments: false
 image: assets/images/chain.jpg
 ---
 Student's month-long occupation of Garland Hall cut off CLSP's access to its computing grid.
 
 Many people have heard the story of ''John Hopkins professor fired for jeopardizing student safety''--but is that the whole story? By putting multiple public news articles together, this post aims to provide an as comprehensive and objective view of what actually happened as possible. 
 
-## The Protest
+1. [The Protest](#protest)
+2. [The ''Counter-Protest''](#counter-protest)
+3. [The Investigation and Administrative Leave](#investigation)
+4. [The University Decision--Employment Termination](#termination)
+5. [Facebook's Conditional Offer](#facebook)
+6. [Povey's Declination to the Facebook Offer](#nofacebook)
+7. [Povey's Remarks](#remarks)
+8. [The Other Side](#other)
+
+
+## The Protest <a name="protest"></a>
 
 [Fox News (August 10th)](https://www.foxnews.com/us/johns-hopkins-professor-fired-for-attempting-to-sabotage-student-protest)
 
@@ -45,7 +56,7 @@ Many people have heard the story of ''John Hopkins professor fired for jeopardiz
 > 
 > Povey was repeatedly told not enter Garland Hall prior to the exchange, despite his requests to enter the building to access computer servers there, according to the letter.
 
-## The ''Counter-Protest''
+## The ''Counter-Protest'' <a name="counter-protest"></a>
 
 [Fox News (August 10th)](https://www.foxnews.com/us/johns-hopkins-professor-fired-for-attempting-to-sabotage-student-protest) 
 
@@ -67,7 +78,7 @@ Many people have heard the story of ''John Hopkins professor fired for jeopardiz
 > 
 > Regarding the incident, Povey said that he was ''frustrated [by] the prospect of a long siege at Garland where our computer servers live,'' and ''organized a group of what I called 'counterprotesters' to try to regain control of the building from the students.''
 
-## The Investigation and Administrative Leave
+## The Investigation and Administrative Leave <a name="investigation"></a>
 
 [Fox News (August 10th)](https://www.foxnews.com/us/johns-hopkins-professor-fired-for-attempting-to-sabotage-student-protest)
 
@@ -75,7 +86,7 @@ Many people have heard the story of ''John Hopkins professor fired for jeopardiz
 > 
 > Povey was originally placed on administrative leave following the incident before being fired.
 
-## The University Decision--Employment Termination
+## The University Decision--Employment Termination <a name="termination"></a>
 
 [Fox News (August 10th)](https://www.foxnews.com/us/johns-hopkins-professor-fired-for-attempting-to-sabotage-student-protest)
 
@@ -130,7 +141,7 @@ Many people have heard the story of ''John Hopkins professor fired for jeopardiz
 
 > School officials wrote in a termination letter to Povey that he brought ''a group of non-affiliates to campus'' on May 8 and ''created a dangerous situation that could have ended in serious harm to our students, yourself, and others in the community.'' The university terminated his employment effective Aug. 31.
 
-## Facebook's Conditional Offer
+## Facebook's Conditional Offer <a name="facebook"></a>
 
 [CNBC (August 12th)](https://www.cnbc.com/2019/08/12/facebook-hires-daniel-povey-fired-johns-hopkins-professor.html)
 
@@ -151,7 +162,7 @@ Many people have heard the story of ''John Hopkins professor fired for jeopardiz
 > However, Facebook told Povey that its decision to do an independent review ''had nothing to do with your political views.''
 
 
-## Povey's Declination to the Facebook Offer
+## Povey's Declination to the Facebook Offer <a name="nofacebook"></a>
 
 [CNBC (August 16th)](https://www.cnbc.com/2019/08/16/daniel-povey-fired-johns-hopkins-prof-declines-facebook-work-offer.html)
 
@@ -187,7 +198,7 @@ Many people have heard the story of ''John Hopkins professor fired for jeopardiz
 >
 > ''There are several operations in the Seattle area who do this kind of thing, so I wouldn’t even have to move,'' Povey wrote. ''I will feel more relaxed among the Chinese because they don’t have American-style social justice warriors.''
 
-## Povey's Remarks
+## Povey's Remarks <a name="remarks"></a>
 
 [The Washington Post (August 12th)](https://www.washingtonpost.com/local/education/johns-hopkins-professor-fired-after-attempted-sabotage-of-student-sit-in-over-private-police-force/2019/08/12/5c80751a-bb8d-11e9-bad6-609f75bfd97f_story.html?noredirect=on)
 
@@ -248,7 +259,7 @@ Many people have heard the story of ''John Hopkins professor fired for jeopardiz
 > 
 > ''White males in this environment seem to be expected to constantly atone for their existence by telegraphing their exclusive concern for every demographic group but their own, like a neutered puppy-dog or some [Canadian Prime Minister] Justin Trudeau man-child,'' he wrote. ''It’s pathetic, in my opinion, and I don’t accept it at all.''
 
-## The Other Side
+## The Other Side <a name="other"></a>
 
 [Fox News (August 10th)](https://www.foxnews.com/us/johns-hopkins-professor-fired-for-attempting-to-sabotage-student-protest)
 

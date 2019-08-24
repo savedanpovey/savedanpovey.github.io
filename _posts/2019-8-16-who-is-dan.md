@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Who is Dan"
+title:  "Who is Dr. Povey"
 author: 
 categories: []
 image: assets/images/povey.jpg
@@ -13,7 +13,7 @@ Dr. Daniel Povey is probably best known for his work on the open source speech r
 
 The screenshot below shows the Google Scholar citations of Dr. Daniel Povey's papers.
 
-![Povey Citation](assets/images/povey-citations.png)
+![Povey Citation](/assets/images/povey-citations.png)
 
 To better develop Kaldi, Dr. Daniel Povey took a faculty job at the Center for Language and Speech Processing, the Johns Hopkins University since 2012, and has been devoting his time purely to developing Kaldi and advising students since then, until the recent termination by the Johns Hopkins University.
 
@@ -70,4 +70,4 @@ A lot of people know Dr. Daniel Povey's work on speech recognition, but only a f
 >####Postscript
 >Dan’s work and contribution in speech recognition is well known, so I believe that this incident likely will not have much impact on his career, nor will it have much impact on Kaldi’s development (as far as I know, his next company and manager support open source). However, it will deeply hurt the speech recognition development at CLSP and Hopkins. The outcome of this incident is really unfortunate. I hope that the university will come up with a fair and transparent investigation result, and that CLSP and Hopkins will weather through this storm. I’m attaching an email I sent out to the group earlier today to close my answer:
 >
->![Letter to the group](assets/images/letter-to-the-group.jpg)
+>![Letter to the group](/assets/images/letter-to-the-group.jpg)

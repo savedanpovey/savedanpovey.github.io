@@ -96,12 +96,14 @@ post_class: post-template
             
             <!-- Begin Comments
             ================================================== -->
-            <section>
-            <div id="comments">                          
-                {% include disqus.html %} 
-            </div>
-            </section>
-            <!--End Comments
+            {% if page.comments %}
+                <section>
+                <div id="comments">                          
+                    {% include disqus.html %} 
+                </div>
+                </section>
+            {% endif %}
+                <!--End Comments
             ================================================== -->
             
             
