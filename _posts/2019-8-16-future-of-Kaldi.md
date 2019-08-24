@@ -3,7 +3,6 @@ layout: post
 title:  "Future of Kaldi ASR"
 author: 
 categories: []
-image: assets/images/1.jpg
-featured: true
+image: assets/images/kaldi.png
 ---
 Implication to Kaldi ASR if Dan's leaving.

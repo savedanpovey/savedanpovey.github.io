@@ -3,7 +3,7 @@ layout: post
 title:  "Who is Dan"
 author: 
 categories: []
-image: assets/images/4.jpg
+image: assets/images/povey.jpg
 ---
 Dr. Daniel Povey is a renowned research scientist in the field of speech recognition. Over the past twenty years or so, Dr. Daniel Povey has been constantly making magnificent contributions to the speech recognition community, making him one of the best known researchers in the field.
 
