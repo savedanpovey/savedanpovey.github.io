@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Letter from Dan's 20+ Advisees"
+title:  "Letter from Dan's 20 Advisees"
 author: 
 categories: []
 image: assets/images/clsp.png
