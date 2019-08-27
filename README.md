@@ -53,12 +53,6 @@ featured: true
 ---
 ```
 
-### TODO
-
-- [ ] clean up header and footer
-- [ ] clean up featured posts
-- [ ] discuss PR plans (both online and offline)
-
 ### Original Copyright
 
 Copyright (C) 2019 WowThemes.net.
