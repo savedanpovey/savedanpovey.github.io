@@ -1,23 +1,23 @@
 ---
 layout: post
-title:  "Who is Dr. Povey"
+title:  "Who is Dr. Daniel Povey"
 author: 
 categories: []
 image: assets/images/povey.jpg
 ---
-Dr. Dan Povey is a renowned research scientist in the field of speech recognition. Over the past twenty years or so, Dr. Dan Povey has been constantly making magnificent contributions to the speech recognition community, making him one of the best known researchers in the field.
+Dr. Povey is a renowned research scientist in the field of speech recognition. Over the past twenty years or so, Dr. Povey has been constantly making magnificent contributions to the speech recognition community, making him one of the best known researchers in the field.
 
-Dr. Dan Povey is first known for his work on discriminative training of hidden Markov model-based speech recognition systems. The improved training methods proposed by Dr. Dan Povey were among the most effective techniques for improving speech recognition systems at the time.
+Dr. Povey is first known for his work on discriminative training of hidden Markov model-based speech recognition systems. The improved training methods proposed by Dr. Povey were among the most effective techniques for improving speech recognition systems at the time.
 
-Dr. Dan Povey is probably best known for his work on the open source speech recognition toolkit Kaldi. Kaldi was a byproduct of the 2009 summer workshop at the Center for Language and Speech Processing, the Johns Hopkins University, titled “Low Development Cost, High Quality Speech Recognition for New Languages and Domains”. Kaldi was officially released on May 14th 2011, and quickly became the best open source speech recognition toolkit. Since its initial release, Kaldi has been maintained and developed to a large extent by Dr. Dan Povey.
+Dr. Povey is probably best known for his work on the open source speech recognition toolkit Kaldi. Kaldi was a byproduct of the 2009 summer workshop at the Center for Language and Speech Processing, the Johns Hopkins University, titled “Low Development Cost, High Quality Speech Recognition for New Languages and Domains”. Kaldi was officially released on May 14th 2011, and quickly became the best open source speech recognition toolkit. Since its initial release, Kaldi has been maintained and developed to a large extent by Dr. Povey.
 
-The screenshot below shows the Google Scholar citations of Dr. Dan Povey's papers.
+The screenshot below shows the Google Scholar citations of Dr. Povey's papers.
 
 ![Povey Citation](/assets/images/povey-citations.png)
 
-To better develop Kaldi, Dr. Dan Povey took a faculty job at the Center for Language and Speech Processing, the Johns Hopkins University since 2012, and has been devoting his time purely to developing Kaldi and advising students since then, until the recent termination by the Johns Hopkins University.
+To better develop Kaldi, Dr. Povey took a faculty job at the Center for Language and Speech Processing, the Johns Hopkins University since 2012, and has been devoting his time purely to developing Kaldi and advising students since then, until the recent termination by the Johns Hopkins University.
 
-A lot of people know Dr. Dan Povey's work on speech recognition, but only a few know him personally. There is this article on Zhihu (China's version of Quora) written by Dr. Dan Povey's former student, which gives a better view of what kind of a person Dr. Dan Povey really is. The article has been upvoted by thousands of readers. The original article was written in Chinese, and below we've tried our best to translate that into English.
+A lot of people know Dr. Povey's work on speech recognition, but only a few know him personally. There is this article on Zhihu (China's version of Quora) written by Dr. Povey's former student, which gives a better view of what kind of a person Dr. Povey really is. The article has been upvoted by thousands of readers. The original article was written in Chinese, and below we've tried our best to translate that into English.
 
 [The Zhihu Article](https://www.zhihu.com/question/339481009/answer/781219312)
 
