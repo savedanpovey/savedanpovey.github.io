@@ -9,14 +9,14 @@ image: assets/images/clsp_door.jpg
 # A Letter From Dr. Daniel Povey’s Students
 
 &nbsp;
-___
+
 ##### key points:
 
 - Dr. Povey is an incredibly supportive advisor who works diligently and closely with his students. None of us considers Dr. Povey to be a violent person.
 - Dr. Povey’s entering of Garland Hall was not politically motivated.
 - We are disappointed by the way the University handled this incident.
 - We are not implicitly endorsing all of Dr. Povey’s comments or views nor are we excusing Dr. Povey’s actions.
-___
+
 
 &nbsp;
 
@@ -40,6 +40,6 @@ For these reasons it is clear to us that his sole motivations for his actions we
 
 Right now with our advisor gone, the whole group is deeply frustrated. Dr. Povey is irreplaceable not only because of his research skills, but for his feedback on our ongoing research projects. As our advisor of several years, he is arguably the only person who sufficiently understands the intricacies of our work. Now we are facing a lot of uncertainty during this difficult time. Within the CLSP, many students appreciate Dr. Povey's diligence as the system administrator, devotion to his duty, and appreciate his efforts in maintaining an excellent computing infrastructure, even if they disagreed with his actions. In a broader sense, we believe the improper handling of the whole incident has led to a lose-lose situation, with CLSP and JHU losing one of their most important assets in our research field.
 
-Sincerely,
+Sincerely,<br/>
 Some Students of Dr. Daniel Povey’s
 
