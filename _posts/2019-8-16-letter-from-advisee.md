@@ -3,7 +3,7 @@ layout: post
 title:  "Letter from Dan's Advisees"
 author: 
 categories: []
-image: assets/images/clsp.png
+image: assets/images/clsp_door.jpg
 ---
 
 # A Letter From Dr. Daniel Povey’s Students
