@@ -1,0 +1,93 @@
+---
+layout: default
+title: Home
+---
+
+<!-- Home Jumbotron
+================================================== -->    
+<section class="intro full-width">
+    <div class="wrapintro">
+        <h1>Support Dr. Daniel Povey and His Students</h1>
+        <h2 class="lead">World-class AI researcher Dr. Daniel Povey is forced to leave Johns Hopkins University on 8/31/2019. 
+            The decision was made without input from our community, leaving 20 students advisorless.</h2>    
+        <a href="#calltoaction" class="btn">Sign the Petition</a>
+    </div>
+</section>
+
+
+<!-- Featured
+================================================== -->
+<section class="featured-posts">
+
+    {% comment %}
+        <div class="section-title">
+            <h2><span>Featured</span></h2>
+        </div>
+    {% endcomment %}
+
+    <div class="row listfeaturedtag">
+
+    {% for post in site.posts %}
+
+        {% if post.featured == true %}
+
+            {% include featuredbox.html %}
+
+        {% endif %}
+
+    {% endfor %}
+
+    </div>
+
+</section>
+
+<!-- Posts Index
+================================================== -->
+{% if paginator.previous_page %}
+{% if paginator.previous_page > 0 %}
+<div id="jumptopageof"></div>
+{% endif %}
+{% endif %}    
+
+<section class="recent-posts row">
+
+    {% comment %}
+    <div class="col-sm-4">
+        {% include sidebar.html %}
+    </div>
+    {% endcomment %}
+
+    <div class="col-sm">
+
+        <div class="section-title">
+            <h2><span>All Stories</span></h2>    
+        </div>
+
+        <div class="masonrygrid row listrecent">
+
+            {% for post in paginator.posts %}
+
+            {% unless post.featured == true %}
+
+                {% include postbox.html %}
+
+            {% endunless %}
+
+            {% endfor %}
+
+        </div> 
+
+        <!-- Pagination -->
+        <div class="bottompagination">
+
+            <span class="navigation" role="navigation">
+
+                {% include pagination.html %}
+
+            </span>
+
+        </div>
+
+    </div>
+
+</section>
